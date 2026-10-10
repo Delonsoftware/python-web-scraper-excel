@@ -4,6 +4,12 @@ A Python scraper that collects product names, prices, ratings and availability
 from every page of [books.toscrape.com](https://books.toscrape.com) (a site made
 for scraping practice) and exports a formatted Excel workbook.
 
+## Screenshots
+
+![Products sheet](screenshots/products.png)
+![Price changes](screenshots/price_changes.png)
+![Summary](screenshots/summary.png)
+
 ## Features
 
 - Follows pagination automatically (50 pages, 1,000 products)
